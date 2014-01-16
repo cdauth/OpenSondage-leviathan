@@ -1,0 +1,12 @@
+[submodule "propel"]
+	path = vendor/propel
+	url = https://github.com/propelorm/Propel.git
+[submodule "swiftmailer"]
+	path = vendor/swiftmailer
+	url = https://github.com/swiftmailer/swiftmailer.git
+[submodule "symfony"]
+	path = vendor/Symfony/Component/HttpFoundation
+	url = https://github.com/symfony/HttpFoundation.git
+[submodule "twig"]
+	path = vendor/twig
+	url = https://github.com/fabpot/Twig.git
